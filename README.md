@@ -35,4 +35,4 @@ Para a construção e validação deste painel, foi utilizada uma **base de dado
 - `dados.csv`: Base de dados simulada para o projeto.
 - `app.py`: Código-fonte do dashboard interativo em Streamlit.
 - `gerar_relatorio.py`: Script responsável por processar o CSV e gerar o relatório formatado.
-- `/imagens`: Screenshots e elementos visuais do painel.
+- `/IMG`: Screenshots e elementos visuais do painel.
