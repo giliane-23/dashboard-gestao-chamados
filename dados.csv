@@ -1,0 +1,51 @@
+empresa,status,ticket,problema
+Alpha Tech,Aberto,TK1001,Erro no sistema
+Beta Sistemas,Concluído,TK1002,Lentidão
+Gamma Solutions,Pendente,TK1003,Falha integração
+Delta Corp,Em andamento,TK1004,Erro login
+Epsilon TI,Aberto,TK1005,Instabilidade
+Zeta Digital,Concluído,TK1006,Banco de dados
+Eta Tecnologia,,,Sem abertura
+Theta Sistemas,Aberto,TK1007,API indisponível
+Iota Tech,Concluído,TK1008,Atualização
+Kappa Corp,Pendente,TK1009,Erro cadastro
+Lambda TI,Em andamento,TK1010,Lentidão
+Mu Sistemas,Aberto,TK1011,Falha servidor
+Nu Digital,,,Sem abertura
+Xi Tecnologia,Concluído,TK1012,Erro impressão
+Omicron Corp,Em andamento,TK1013,Integração ERP
+Pi Sistemas,Aberto,TK1014,Erro login
+Rho Tech,Pendente,TK1015,Problema email
+Sigma Digital,Concluído,TK1016,Backup
+Tau Tecnologia,Aberto,TK1017,VPN
+Upsilon Corp,Em andamento,TK1018,Permissão acesso
+Phi Sistemas,,,Sem abertura
+Chi Tech,Concluído,TK1019,Atualização
+Psi Digital,Pendente,TK1020,Falha sincronização
+Omega Tecnologia,Aberto,TK1021,Erro sistema
+Vision TI,Em andamento,TK1022,Lentidão
+Next Solutions,Concluído,TK1023,Correção cadastro
+Prime Corp,Aberto,TK1024,API
+Infinity Tech,Pendente,TK1025,ERP
+Sky Sistemas,Concluído,TK1026,Backup
+Cloud TI,Em andamento,TK1027,Banco de dados
+Master Digital,Aberto,TK1028,VPN
+Future Corp,Concluído,TK1029,Atualização
+Connect Tech,Pendente,TK1030,Integração
+Power Sistemas,Aberto,TK1031,Erro login
+Smart TI,Em andamento,TK1032,Lentidão
+Data Solutions,Concluído,TK1033,Correção
+Net Corp,,,Sem abertura
+Digital One,Aberto,TK1034,Instabilidade
+Info Tech,Pendente,TK1035,Email
+Tech Plus,Concluído,TK1036,Servidor
+Soft Digital,Em andamento,TK1037,ERP
+Global TI,Aberto,TK1038,API
+Mega Systems,Concluído,TK1039,Banco
+Ultra Corp,Pendente,TK1040,Integração
+Easy Tech,Aberto,TK1041,VPN
+Blue Sistemas,Em andamento,TK1042,Permissão
+Green TI,Concluído,TK1043,Backup
+Orange Corp,Aberto,TK1044,Erro login
+Red Digital,,,Sem abertura
+Black Solutions,Concluído,TK1045,Atualização
