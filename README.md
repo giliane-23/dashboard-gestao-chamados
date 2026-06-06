@@ -34,8 +34,8 @@ Para a construção e validação deste painel, foi utilizada uma **base de dado
 
 ## 📁 Estrutura do Projeto
 
-- `dados.csv`: Base de dados simulada para o projeto[cite: 1, 3].
-- `dashboard.py`: Código-fonte do dashboard interativo em Streamlit[cite: 1, 3].
-- `main.py`: Script em Python com a lógica de tratamento e geração do relatório[cite: 1].
-- `relatorio.xlsx`: Planilha automatizada e formatada gerada pelo script[cite: 1].
-- `/IMG`: Pasta contendo as imagens e screenshots do painel para exibição[cite: 1].
+- `dados.csv`: Base de dados simulada para o projeto.
+- `dashboard.py`: Código-fonte do dashboard interativo em Streamlit.
+- `main.py`: Script em Python com a lógica de tratamento e geração do relatório.
+- `relatorio.xlsx`: Planilha automatizada e formatada gerada pelo script.
+- `/IMG`: Pasta contendo as imagens e screenshots do painel para exibição.
