@@ -192,13 +192,22 @@ with col6:
         len(dados_filtrados[dados_filtrados["status"] == "Concluído"]),
         "#CAFFBF"
     )
+    
 
 st.markdown("<br>", unsafe_allow_html=True)
 
 st.markdown(" 📊 Chamados por Status")
 
+
+dados_para_grafico = dados_filtrados.copy()
+
+
+dados_para_grafico.loc[dados_para_grafico["ticket"].isna(),
+                       "status"] = "Sem Ticket"
+
+
 status_contagem = (
-    dados["status"]
+    dados_para_grafico["status"]
     .value_counts()
     .reset_index()
 )
@@ -217,10 +226,10 @@ fig = px.bar(
         "Aberto": "#FFF3B0",
         "Em andamento": "#A2D2FF",
         "Pendente": "#FFD6A5",
-        "Concluído": "#CAFFBF"
+        "Concluído": "#CAFFBF",
+        "Sem Ticket": "#FFADAD"
     }
 )
-
 fig.update_layout(
     height=350,
     plot_bgcolor="#F8FFFA",
