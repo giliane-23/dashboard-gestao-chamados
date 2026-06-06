@@ -4,7 +4,17 @@ Este é um projeto focado em **Análise de Dados, UX e Visão de Negócio**, des
 
 A ideia do projeto surgiu a partir da observação de rotinas diárias em Customer Success, identificando a oportunidade de transformar planilhas estáticas em um painel visual dinâmico e interativo para apoio à tomada de decisão.
 
----
+<p align="center">
+  <img src="img/1.png      " alt="Interface do Dashboard" width="100%">
+</p>
+
+<p align="center">
+  <img src="img/2.png"  width="100%">
+</p>
+<p align="center">
+  <img src="img/3.png"  width="100%">
+</p>
+
 
 ## ⚠️ Nota Importante sobre os Dados
 Para a construção e validação deste painel, foi utilizada uma **base de dados fictícia gerada por Inteligência Artificial** (`dados.csv`). Este repositório tem fins estritamente didáticos e de portfólio pessoal, **não contendo** quaisquer dados reais, confidenciais ou sensíveis de clientes ou da empresa onde atuo.
